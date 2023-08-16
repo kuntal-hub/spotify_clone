@@ -1,0 +1,51 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.flex-left{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+   
+}
+.flex-right{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+.cooki{
+    position: absolute;
+    bottom: 150px;
+    left: 10px;
+    color: whitesmoke;
+}
+
+.lan{
+    color: white;
+    align-items: center;
+    box-sizing: border-box;
+    border: 2px solid white;
+    padding: 2px;
+    box-sizing: border-box;
+    height: 30px;
+    font-size: 15px;
+    width: 90px;
+    border-radius: 30px;
+    position: absolute;
+    bottom: 90px;
+    left: 10px;
+    
+}
+#en{
+ position: absolute;
+top: 4px;
+left: 30px;
+}
