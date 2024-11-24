@@ -1,0 +1,187 @@
+{
+    "anupom roy songs": {
+        "Alada Alada sob": {
+            "song_src": "songs/Alada_Alada_anupom_ror.mp3",
+            "img_src": "song_image/alada_alada.jpg",
+            "duration": "03:33"
+        },
+        "Ami Ajkal Valo Achi": {
+            "song_src": "songs/Ami_Ajkal_Bhalo_Achi.mp3",
+            "img_src": "song_image/ami_ajkal_valo_achi.jpg",
+            "duration": "03:34"
+        },
+        "Boba Tunnel": {
+            "song_src": "songs/Boba_Tunnel_Video_Song___Bengali_Film__Chotushkone____Anupam_Roy.mp3",
+            "img_src": "song_image/boba_tunnel.jpg",
+            "duration": "03:34"
+        },
+        "Bondhu chol": {
+            "song_src": "songs/Bondhu_Chol_Lyrical___Open_Tee_Bioscope___Anupam_Roy___Shantanu_Moitra___Anindya.mp3",
+            "img_src": "song_image/bondhu_chol.jpg",
+            "duration": "03:34"
+        },
+        "kichu chaine ami": {
+            "song_src": "songs/Kichchu_Chaini_Aami___Lyrical___Shah_Jahan_Regency___Anirban___Dipangshu___Prasen___SVF_Music.mp3",
+            "img_src": "song_image/kichu_chaine_ami.jpg",
+            "duration": "03:34"
+        },
+        "sai tumi kano ato...": {
+            "song_src": "songs/Sei_tumi_keno_eto_ochena_hole___Ayub_Bachchu.mp3",
+            "img_src": "song_image/sai_tumi_kano_ato_ochana.jpg",
+            "duration": "03:34"
+        },
+        "kotha koiyo na...": {
+            "song_src": "songs/Kotha_Koiyo_Na___Coke_Studio_Bangla___Season_2___Shiblu_Mredha_X_Aleya_Begum_X_Emon_Chowdhury.mp3",
+            "img_src": "song_image/Kotha-Koiyo-Na.jpg",
+            "duration": "05:46"
+        }
+    },
+    "Somlata Acharyya Chowdhury songs": {
+        "amar khola hawa...": {
+            "song_src": "songs/Khola_Hawa___Somlata___The_Aces___Rabindra_Sangeet___Somlata_Acharyya_Chowdhury.mp3",
+            "img_src": "song_image/Tomar-Khola-Hawa.jpg",
+            "duration": "03:34"
+        },
+        "o ja mana na mana...": {
+            "song_src": "songs/Rabindra_Sangeet___O_Je_Mane_Na_Mana___Somlata_Acharyya_Chowdhury___Somlata_And_The_Aces_.mp3",
+            "img_src": "song_image/o_ja_mana_na_mana.jpg",
+            "duration": "03:34"
+        },
+        "Nishitho Raater...": {
+            "song_src": "songs/Rabindrasangeet___Nishitho_Raater___Somlata_Acharyya_Chowdhury___Somlata_And_The_Aces.mp3",
+            "img_src": "song_image/amar_nishit.jpg",
+            "duration": "03:34"
+        },
+        "kano magh asa hridoye akashe": {
+            "song_src": "songs/Keno_Megh_ashe_Hridoye_akashe._Bangla_Song_2022.mp3",
+            "img_src": "song_image/kano_megh_asa.jpg",
+            "duration": "03:34"
+        },
+        "ora monar gopon chena na": {
+            "song_src": "songs/ora_monar_gopon_chana_na.mp3",
+            "img_src": "song_image/ora_monar_gopon.jpg",
+            "duration": "03:34"
+        },
+        "ami sunachi sadin tumi": {
+            "song_src": "songs/ami_sunachi_sadin_tumi.mp3",
+            "img_src": "song_image/ami_sunachi_sadin.jpg",
+            "duration": "03:34"
+        }
+    },
+    "fakira band songs": {
+        "HARA KRISHNA": {
+            "song_src": "songs/HARE_KRISHNA.mp3",
+            "img_src": "song_image/hara_krishna.jpeg",
+            "duration": "03:34"
+        },
+        "Rai jago go": {
+            "song_src": "songs/RAAI_JAGO___FAKIRA___PRABHATI_SONG___Album_-_HARE_KRISHNA___BENGALI_FOLK__2022.mp3",
+            "img_src": "song_image/raai_jago.jpg",
+            "duration": "03:34"
+        },
+        "Geet Gobindo": {
+            "song_src": "songs/Geet_Gobindo.mp3",
+            "img_src": "song_image/mone.jpg",
+            "duration": "03:34"
+        },
+        "MONE": {
+            "song_src": "songs/Mone.mp3",
+            "img_src": "song_image/mone.jpg",
+            "duration": "03:34"
+        },
+        "jakhon": {
+            "song_src": "songs/Jakhon.mp3",
+            "img_src": "song_image/jakhon.jpeg",
+            "duration": "03:34"
+        },
+        "Halud pakhi": {
+            "song_src": "songs/Halud_Pakhi.mp3",
+            "img_src": "song_image/holud_pakhi.jpg",
+            "duration": "03:34"
+        }
+    },
+    "my favourite songs": {
+        "Aamay Bhashaili ray": {
+            "song_src": "songs/Aamay_Bhashaili_Rey___Alamgir.mp3",
+            "img_src": "song_image/amai_vasaili.jpg",
+            "duration": "06:57"
+        },
+        "Bhalobeshe Sokhi": {
+            "song_src": "songs/Bhalobeshe_Sakhi_Nribhito_Jotone.mp3",
+            "img_src": "song_image/Bhalobeshe-Sokhi-Nibhrite-Jotone.jpg",
+            "duration": "03:34"
+        },
+        "Bhenge mor ghorer chabi": {
+            "song_src": "songs/Bhenge_Mor_Ghorer_Chabi_-_Mahtim_Shakib___Rabindra_Sangee.mp3",
+            "img_src": "song_image/Bhenge-mor-ghorer-chabi-lyrics.webp",
+            "duration": "03:34"
+        },
+        "bodhua amar choka jol anacha": {
+            "song_src": "songs/bodhua_amar_choka_jol_anacha.mp3",
+            "img_src": "song_image/bodhua_amar.jpg",
+            "duration": "03:34"
+        },
+        "bondhu tomay": {
+            "song_src": "songs/Bondhu_Tomaye____Chandrabindoo___Audio_Song.mp3",
+            "img_src": "song_image/bondhu_tomay.jpg",
+            "duration": "03:34"
+        },
+        "Emon Jodi Hoto": {
+            "song_src": "songs/Emon_Jodi_Hoto.mp3",
+            "img_src": "song_image/amon_jodi_hoto.jpg",
+            "duration": "03:34"
+        },
+        "Kichudin Mone Mone": {
+            "song_src": "songs/Kichudin_Mone_Mone___Rishi_Panda.mp3",
+            "img_src": "song_image/kichudin_mona.jpg",
+            "duration": "03:34"
+        },
+        "Ami sudhu khujechi amay": {
+            "song_src": "songs/Taalpatar_Shepai_-_Ami_sudhu_khujechi_amay___Official_Music_Video___Bengali_Song.mp3",
+            "img_src": "song_image/khokono_vor_talpatar.jpg",
+            "duration": "03:34"
+        }
+    },
+    " mix romantic songs": {
+        "Dekhechi_Rupsagore": {
+            "song_src": "songs/Dekhechi_Rupsagore_.mp3",
+            "img_src": "song_image/Dekhechi-Rupsagore-Benga.jpg",
+            "duration": "03:34"
+        },
+        "lofi songs hindi": {
+            "song_src": "songs/lofi_song__slowed_reverb__use_headphone____Mood_off_.mp3",
+            "img_src": "song_image/lofi_songs.jpg",
+            "duration": "03:34"
+        },
+        "Majhey Majhey Tobo": {
+            "song_src": "songs/Majhey_Majhey_Tobo_(feat._Mahtim_Shakib).mp3",
+            "img_src": "song_image/maja_maja_tobo.jpeg",
+            "duration": "03:34"
+        },
+        "Moddhorate": {
+            "song_src": "songs/Taalpatar_Shepai____Moddhorate___Official_Audio___Original_Composition.mp3",
+            "img_src": "song_image/modhorata.jpg",
+            "duration": "03:34"
+        },
+        "Tarsati Hai Nigahen": {
+            "song_src": "songs/Tarsati_Hai_Nigahen_Meri_(Official_Video)_Himanshi_Khurana,_Asim_Riaz__Latest_Romantic_Songs_2021.mp3",
+            "img_src": "song_image/tarasti_ha.jpg",
+            "duration": "03:34"
+        },
+        "তোমায় দিলাম": {
+            "song_src": "songs/Tomay_Dilam_with_lyrics_-_Mohineer_Ghoraguli;_তোমায়_দিলাম_-_মহীনের_ঘোড়াগুলি.mp3",
+            "img_src": "song_image/tomay_delam_mohinar.jpg",
+            "duration": "03:34"
+        },
+        "Tumi Jantei ParoNaa": {
+            "song_src": "songs/Tumi_Jantei_ParoNaa__.mp3",
+            "img_src": "song_image/yumi_janta_rone.jpg",
+            "duration": "03:34"
+        },
+        "Dhoro Jodi Hothat Sondhye": {
+            "song_src": "songs/Dhoro_Jodi_Hothat_Sondhye_.mp3",
+            "img_src": "song_image/Dhoro-Jodi-Hothat-Sondhye.jpg",
+            "duration": "03:34"
+        }
+    }
+}
