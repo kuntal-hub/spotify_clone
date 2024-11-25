@@ -1,3 +1,5 @@
+﻿![screenshot](https://portfolio-v2-sigma-eight-85.vercel.app/Screenshot%20(114)-min.png)
+ 
 # Simple Online Music Player
 
 A lightweight, static music player website built using HTML, CSS, and JavaScript. This music player supports predefined audio files, fetched dynamically from a `text.json` file that contains song metadata. Users can select from different categories or playlists and enjoy basic playback controls along with additional features like looping, sleep timer, and more.
